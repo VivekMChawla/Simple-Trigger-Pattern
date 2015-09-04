@@ -29,9 +29,9 @@
 *       2. SObject   <---- Target Object's API Name (eg. "Account" or "Sample_Object__c")
 * 2. Delete "template help" sections (like this one).
 * ──────────────────────────────────────────────────────────────────────────────────────────────────
-* @author         Vivek M. Chawla     <Vivek_Chawla@Intuit.com>
-* @modifiedBy     Vivek M. Chawla     <Vivek_Chawla@Intuit.com>
-* @maintainedBy   Vivek M. Chawla     <Vivek_Chawla@Intuit.com>
+* @author         Vivek M. Chawla     <Vivek.M.Chawla@gmail.com>
+* @modifiedBy     Vivek M. Chawla     <Vivek.M.Chawla@gmail.com>
+* @maintainedBy   Vivek M. Chawla     <Vivek.M.Chawla@gmail.com>
 * @version        1.0
 * @created        YYYY-MM-DD
 * @modified       YYYY-MM-DD
@@ -41,13 +41,14 @@
 * @see            TriggerHandler.class
 * ──────────────────────────────────────────────────────────────────────────────────────────────────
 * @changes
-* vX.X            Vivek_Chawla@Intuit.com
+* vX.X            Vivek.M.Chawla@gmail.com
 * YYYY-MM-DD      Explanation of the change.  Multiple lines can be used to explain the change, but
 *                 each line should be indented till left aligned with the previous description text.
 *
-* vX.X            Vivek_Chawla@Intuit.com
-* YYYY-MM-DD      Explanation of the change.  Multiple lines can be used to explain the change, but
-*                 each line should be indented till left aligned with the previous description text.
+* vX.X            Vivek.M.Chawla@gmail.com
+* YYYY-MM-DD      Each change to this file should be documented by incrementing the version number,
+*                 and adding a new entry to this @changes list. Note that there is a single blank
+*                 line between each @changes entry.
 * ─────────────────────────────────────────────────────────────────────────────────────────────────┘
 */
 public class SampleObjectTriggerHandler extends TriggerHandler {
