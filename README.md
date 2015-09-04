@@ -4,6 +4,8 @@ This is the official public repository of the Simple Trigger Pattern for Salesfo
 
 The Simple Trigger Pattern can be used to quick-start development of new triggers. It encapsulates several best-practices, including "One Trigger per Object", "No Business Logic in Triggers", and "Recursion Prevention Using Static Variables".  The STP also facilitates adoption of the architectural best practice of Separation of Concerns.
 
+**NOTE:** If you are looking for the Gist "snippet collection" of Simple Trigger Pattern files, you can find it here: [bit.ly/SimpleTriggerPatternGist](http://bit.ly/SimpleTriggerPatternGist)
+
 ##Contents
 
 The following files are contained in this repository:
