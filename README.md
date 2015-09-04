@@ -8,7 +8,7 @@ The Simple Trigger Pattern can be used to quick-start development of new trigger
 
 The following files are contained in this repository:
 
-- **LICENSE** 
+- **LICENSE.txt** 
   - Copyright and license information
   - All code and documentation are distributed under MIT License
   - If you find this pattern useful, let me know [@VivekMChawla](https://twitter.com/VivekMChawla)
