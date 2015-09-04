@@ -22,24 +22,24 @@
 * definition.  Trigger logic should ONLY be implemented by the Trigger Handler class, or classes
 * called by the Trigger Handler class.
 * ──────────────────────────────────────────────────────────────────────────────────────────────────
-* @author       Vivek M. Chawla     <Vivek_Chawla@Intuit.com>
-* @modifiedby   Vivek M. Chawla     <Vivek_Chawla@Intuit.com>
-* @ownedby      Vivek M. Chawla     <Vivek_Chawla@Intuit.com>
-* @version      1.0
-* @created      YYYY-MM-DD
-* @modified     YYYY-MM-DD
-* @systemLayer  Invocation
-* @see          Sample_Object__c.object
-* @see          SampleObjectTriggerHandler.class
+* @author         Vivek M. Chawla     <Vivek.M.Chawla@gmail.com>
+* @modifiedBy     Vivek M. Chawla     <Vivek.M.Chawla@gmail.com>
+* @maintainedBy   Vivek M. Chawla     <Vivek.M.Chawla@gmail.com>
+* @version        1.0
+* @created        YYYY-MM-DD
+* @modified       YYYY-MM-DD
+* @systemLayer    Invocation
+* @see            Sample_Object__c.object
+* @see            SampleObjectTriggerHandler.class
 * ──────────────────────────────────────────────────────────────────────────────────────────────────
-* @changes
-* vX.X          Vivek_Chawla@Intuit.com
-* YYYY-MM-DD    Explanation of the change.  Multiple lines can be used to explain the change, but
-*               each line should be indented till left aligned with the previous description text.
+* vX.X            Vivek.M.Chawla@gmail.com
+* YYYY-MM-DD      Explanation of the change.  Multiple lines can be used to explain the change, but
+*                 each line should be indented till left aligned with the previous description text.
 *
-* vX.X          Vivek_Chawla@Intuit.com
-* YYYY-MM-DD    Explanation of the change.  Multiple lines can be used to explain the change, but
-*               each line should be indented till left aligned with the previous description text.
+* vX.X            Vivek.M.Chawla@gmail.com
+* YYYY-MM-DD      Each change to this file should be documented by incrementing the version number,
+*                 and adding a new entry to this @changes list. Note that there is a single blank
+*                 line between each @changes entry.
 * ─────────────────────────────────────────────────────────────────────────────────────────────────┘
 */
 trigger SampleObjectTrigger on Sample_Object__c (before insert, before update, 
