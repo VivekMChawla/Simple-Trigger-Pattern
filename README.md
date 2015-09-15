@@ -36,7 +36,3 @@ The following files are contained in this repository:
 - **SampleObjectTriggerHandlerTest.cls**
   - Apex test class template
   - Requires customization before deploying to your org
-
-## Implementation Instructions
-
-Additional content TBA
